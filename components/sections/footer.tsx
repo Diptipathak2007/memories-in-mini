@@ -34,7 +34,7 @@ export default function Footer() {
                 className="flex items-center justify-center gap-2 text-[#FF69B4] transition-colors"
               >
                 <Instagram className="w-4 h-4" />
-                <span>@memories.in.mini</span>
+                <span>@_memories.in.mini_</span>
               </a>
               <a 
                 href="https://wa.me/919310484886" 

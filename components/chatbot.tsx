@@ -21,10 +21,10 @@ const KNOWLEDGE_BASE = {
   shipping: "Good news! We have NO shipping charges, NO hidden charges, and NO extra charges! ❌📦",
   packaging: "We offer beautiful Box Packaging for just ₹5 extra! It makes your memories even more special. 🎁",
   howToOrder: "Ordering is easy! \n1. Choose your size and set.\n2. Send your photos to us on WhatsApp or Instagram.\n3. We'll handle the rest! \nCheck out the 'How It Works' section for a step-by-step guide. 🛍️",
-  contact: "You can reach us on WhatsApp at +91 93104 84886 or +91 93193 80940, or DM us on Instagram @memories.in.mini! 📱",
+  contact: "You can reach us on WhatsApp at +91 93104 84886 or +91 93193 80940, or DM us on Instagram @_memories.in.mini_! 📱",
   about: "Memories in Mini is all about turning your precious moments into timeless Polaroids. We're a small business dedicated to making your memories last forever! 💖",
   deliveryTime: "We usually deliver within 5-7 business days! We'll keep you updated on your order status. 🚚✨",
-  trust: "You can absolutely trust us! 💖 We are a dedicated small business with many happy customers. You can check our Instagram @memories.in.mini to see our work and customer highlights! ✨"
+  trust: "You can absolutely trust us! 💖 We are a dedicated small business with many happy customers. You can check our Instagram @_memories.in.mini_ to see our work and customer highlights! ✨"
 }
 
 export default function ChatBot() {
