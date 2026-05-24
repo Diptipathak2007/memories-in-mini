@@ -28,7 +28,7 @@ export default function Footer() {
             <p className="text-sm font-bold text-[#FF69B4] mb-3 uppercase tracking-widest">Get in Touch</p>
             <div className="space-y-2 text-sm">
               <a 
-                href="https://www.instagram.com/memories.in.mini/" 
+                href="https://www.instagram.com/_memories.in.mini_?igsh=cnNpamlpNnFjZ3kx" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 text-[#FF69B4] transition-colors"
@@ -62,7 +62,7 @@ export default function Footer() {
             <p className="text-sm font-bold text-[#FF69B4] mb-3 uppercase tracking-widest">Follow Us</p>
             <div className="flex gap-4 justify-center md:justify-end">
               <a 
-                href="https://www.instagram.com/memories.in.mini/" 
+                href="https://www.instagram.com/_memories.in.mini_?igsh=cnNpamlpNnFjZ3kx" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="p-2 rounded-full bg-pink-50 text-[#FF69B4] hover:bg-[#FF69B4] hover:text-white transition-all duration-300 shadow-sm"

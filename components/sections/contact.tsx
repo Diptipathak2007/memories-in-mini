@@ -35,7 +35,7 @@ export default function Contact() {
   }
 
   const openInstagram = () => {
-    window.open("https://www.instagram.com/memories.in.mini/", "_blank")
+    window.open("https://www.instagram.com/_memories.in.mini_?igsh=cnNpamlpNnFjZ3kx", "_blank")
   }
 
   return (
